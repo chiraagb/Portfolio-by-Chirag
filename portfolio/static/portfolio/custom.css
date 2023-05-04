@@ -1,0 +1,29 @@
+
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(0,0,0,.5) !important;
+}
+.navbar-brand{
+    color: black !important;
+    font-family: 'Dancing Script', cursive !important;
+}
+.auto-type{
+    color: #8F43EE;
+}
+#blogtitle {
+    font-size: 6rem;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 3rem;
+    }
+    #blogdetailtitle {
+        font-size: 4rem;
+    }
+}
